@@ -1,5 +1,3 @@
-# bot-promo
-
 🗂️ Trello/Jira – Backlog do Bot de WhatsApp para Promoções
 📌 Colunas sugeridas
 
@@ -25,11 +23,7 @@ Criar template de mensagens promocionais
 
 Definir métricas que serão rastreadas
 
-🔹 Release 1 – MVP
+<img width="550" height="312" alt="image" src="https://github.com/user-attachments/assets/a7b55f46-2c31-4141-a39e-10490196eedf" />
+<img width="553" height="428" alt="image" src="https://github.com/user-attachments/assets/2699ba4d-1090-4aa6-919b-00664d50d953" />
 
-Objetivo: Cadastro básico e envio manual de promoções
-
-Card	Descrição	Critérios de Aceitação	Prioridade
-US01 – Cadastro via palavra-chave	Usuário envia “PROMO” para se cadastrar	Bot confirma cadastro e envia boas-vindas	Alta
-US02 – Opt-out	Usuário envia “SAIR” para descadastro	Bot confirma remoção e usuário não recebe mais mensagens	Alta
-US04 – Envio de promoções em massa	Administrador envia promoções para todos os usuários	Mensagem com texto, imagem e link; registro de entrega	Alta
+<img width="566" height="300" alt="image" src="https://github.com/user-attachments/assets/6e9b09bc-c883-45ac-9921-24a257db90f8" />
